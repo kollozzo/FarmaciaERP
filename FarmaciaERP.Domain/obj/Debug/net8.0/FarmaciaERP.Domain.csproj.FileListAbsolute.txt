@@ -1,0 +1,11 @@
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\bin\Debug\net8.0\FarmaciaERP.Domain.deps.json
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\bin\Debug\net8.0\FarmaciaERP.Domain.dll
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\bin\Debug\net8.0\FarmaciaERP.Domain.pdb
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\obj\Debug\net8.0\FarmaciaERP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\obj\Debug\net8.0\FarmaciaERP.Domain.AssemblyInfoInputs.cache
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\obj\Debug\net8.0\FarmaciaERP.Domain.AssemblyInfo.cs
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\obj\Debug\net8.0\FarmaciaERP.Domain.csproj.CoreCompileInputs.cache
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\obj\Debug\net8.0\FarmaciaERP.Domain.dll
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\obj\Debug\net8.0\refint\FarmaciaERP.Domain.dll
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\obj\Debug\net8.0\FarmaciaERP.Domain.pdb
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Domain\obj\Debug\net8.0\ref\FarmaciaERP.Domain.dll

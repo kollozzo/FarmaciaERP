@@ -1,0 +1,17 @@
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\bin\Debug\net8.0\FarmaciaERP.Infrastructure.deps.json
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\bin\Debug\net8.0\FarmaciaERP.Infrastructure.dll
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\bin\Debug\net8.0\FarmaciaERP.Infrastructure.pdb
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\bin\Debug\net8.0\FarmaciaERP.Application.dll
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\bin\Debug\net8.0\FarmaciaERP.Domain.dll
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\bin\Debug\net8.0\FarmaciaERP.Application.pdb
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\bin\Debug\net8.0\FarmaciaERP.Domain.pdb
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\FarmaciaERP.Infrastructure.csproj.AssemblyReference.cache
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\FarmaciaERP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\FarmaciaERP.Infrastructure.AssemblyInfoInputs.cache
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\FarmaciaERP.Infrastructure.AssemblyInfo.cs
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\FarmaciaERP.Infrastructure.csproj.CoreCompileInputs.cache
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\Farmacia.FBD35418.Up2Date
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\FarmaciaERP.Infrastructure.dll
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\refint\FarmaciaERP.Infrastructure.dll
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\FarmaciaERP.Infrastructure.pdb
+L:\FAUSTINO\COMPLEMENTO ESPECIALIZADO VII\FarmaciaERP\FarmaciaERP.Infrastructure\obj\Debug\net8.0\ref\FarmaciaERP.Infrastructure.dll

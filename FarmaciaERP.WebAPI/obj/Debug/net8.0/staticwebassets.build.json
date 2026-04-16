@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nI6u4ulVq1lgotLrsQtNbzfsgJfHgjJSM4IYJzUuguE=",
+  "Source": "FarmaciaERP.WebAPI",
+  "BasePath": "_content/FarmaciaERP.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
