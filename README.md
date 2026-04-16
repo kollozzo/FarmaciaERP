@@ -69,7 +69,7 @@ FarmaciaERP
 
 ## 👥 Integrantes del Equipo
 
-- Barrera Romer Christian George
+- Cabanillas calderón Gustavo
 - Morales Susanibar Gabriel
 - Pacheco Rivera Jan Frank
 - Perez La Rosa Leonardo
